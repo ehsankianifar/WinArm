@@ -1,0 +1,14 @@
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\raspTest.exe
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\raspTest.deps.json
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\raspTest.runtimeconfig.json
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\raspTest.runtimeconfig.dev.json
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\raspTest.dll
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\win-x86\raspTest.pdb
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\win-x86\raspTest.csprojAssemblyReference.cache
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\win-x86\raspTest.csproj.CoreCompileInputs.cache
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\win-x86\raspTest.AssemblyInfoInputs.cache
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\win-x86\raspTest.AssemblyInfo.cs
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\win-x86\raspTest.dll
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\win-x86\raspTest.pdb

@@ -1,0 +1,11 @@
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\raspTest.deps.json
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\raspTest.runtimeconfig.json
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\raspTest.runtimeconfig.dev.json
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\raspTest.dll
+C:\Users\EHSAN\source\repos\raspTest\raspTest\bin\Release\netcoreapp2.1\raspTest.pdb
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\raspTest.csproj.CoreCompileInputs.cache
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\raspTest.AssemblyInfoInputs.cache
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\raspTest.AssemblyInfo.cs
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\raspTest.dll
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\raspTest.pdb
+C:\Users\EHSAN\source\repos\raspTest\raspTest\obj\Release\netcoreapp2.1\raspTest.csprojAssemblyReference.cache
